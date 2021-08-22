@@ -30,7 +30,7 @@ h5 {
 
 .card-series {
     margin: 1%;
-    transform: translate(100rem, 0);
+    transform: translate(-100rem, 0);
 }
 
 .card-series.aktif {
@@ -41,7 +41,7 @@ h5 {
 
 .card-manga {
     margin: 1%;
-    transform: translate(100rem, 0);
+    transform: translate(-100rem, 0);
 }
 
 .card-manga.aktif {
